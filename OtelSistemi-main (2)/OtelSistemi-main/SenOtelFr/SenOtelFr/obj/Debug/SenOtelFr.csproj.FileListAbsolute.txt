@@ -1,0 +1,224 @@
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.AssemblyReference.cache
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.SuggestedBindingRedirects.cache
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.exe
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.pdb
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.AssemblyReference.cache
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.SuggestedBindingRedirects.cache
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Kayit.resources
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Personel.resources
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Properties.Resources.resources
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.GenerateResource.cache
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.CoreCompileInputs.cache
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form1.resources
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe.config
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe
+C:\Users\sikot\Desktop\vtyss\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.pdb
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe.config
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.pdb
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Kayit.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Personel.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form1.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Properties.Resources.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.GenerateResource.cache
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.CoreCompileInputs.cache
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.exe
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.pdb
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form4.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form5.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form6.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form7.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\Form1.FrmMusteriler.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form8.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\Form1.RezerveEtme.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form9.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form10.resources
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.ResolveComReference.cache
+C:\Users\sikot\source\repos\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form11.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe.config
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.pdb
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.AssemblyReference.cache
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.ResolveComReference.cache
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form10.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form11.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Kayit.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Personel.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form1.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form4.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form5.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form6.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form7.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form8.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form9.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\Form1.FrmMusteriler.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Properties.Resources.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\Form1.RezerveEtme.resources
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.GenerateResource.cache
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.CoreCompileInputs.cache
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.exe
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.pdb
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.pdb
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.Up2Date
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.barcodes.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.commons.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.forms.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.io.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.kernel.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.layout.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfa.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfua.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.sign.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.svg.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Buffers.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Memory.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.ValueTuple.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.barcodes.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.commons.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.forms.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.io.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.kernel.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.layout.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfa.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfua.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.sign.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.svg.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Buffers.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Memory.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.ValueTuple.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.exe.config
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Ilhan\source\repos\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.AssemblyReference.cache
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.SuggestedBindingRedirects.cache
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.exe.config
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.ResolveComReference.cache
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.exe
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.pdb
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe.config
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.exe
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\SenOtelFr.pdb
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.barcodes.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.commons.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.forms.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.io.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.kernel.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.layout.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfa.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfua.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.sign.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.styledxmlparser.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.svg.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Buffers.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Memory.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.ValueTuple.dll
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.barcodes.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.commons.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.forms.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.io.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.kernel.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.layout.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfa.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.pdfua.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.sign.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.styledxmlparser.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\itext.svg.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.pdb
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Buffers.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Memory.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\bin\Debug\System.ValueTuple.xml
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form10.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form11.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Kayit.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Personel.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form1.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form4.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form5.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form6.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form7.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form8.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form9.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\Form1.FrmMusteriler.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Properties.Resources.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\Form1.RezerveEtme.resources
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.GenerateResource.cache
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.CoreCompileInputs.cache
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.csproj.Up2Date
+C:\Users\sikot\Downloads\OtelSistemi-main (2)\OtelSistemi-main\SenOtelFr\SenOtelFr\obj\Debug\SenOtelFr.Form13.resources
